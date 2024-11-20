@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ListViewWithNumberBoxesIssue (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ListViewWithNumberBoxesIssue (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
