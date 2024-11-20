@@ -12,7 +12,7 @@
     <Grid RowDefinitions="Auto,*">
         <Button
             Grid.Row="0"
-            Command="{x:Bind ViewModel.MoveFirstToLastCommand}"
+            Command="{x:Bind ViewModel.MoveFirstToBottomCommand}"
             Content="Move First To Bottom" />
         <ListView
             Grid.Row="1"

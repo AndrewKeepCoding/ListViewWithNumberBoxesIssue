@@ -24,7 +24,7 @@ public partial class ShellViewModel : ObservableObject
         ];
 
     [RelayCommand]
-    private void MoveFirstToLast()
+    private void MoveFirstToBottom()
     {
         Items.Move(0, Items.Count - 1);
     }
